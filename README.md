@@ -1,7 +1,5 @@
 # PowerShell-extensions
 
 ```
-winget install vim.vim
+choco install vim             #install vim
 ```
-or visit here to install more stuff with terminal
-https://chocolatey.org/install
